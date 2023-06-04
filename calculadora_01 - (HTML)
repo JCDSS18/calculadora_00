@@ -15,72 +15,72 @@
             <h1 id="h1_id_01">0</h1>
         </div>
         <div class="div_class_00">
-            <div id="div_id_02" class="div_class_01">
+            <div id="div_id_02" class="div_class_01 div_class_03">
                 <h3 id="h3_id_01">AC</h3>
             </div>
-            <div id="div_id_03" class="div_class_01">
+            <div id="div_id_03" class="div_class_01 div_class_03">
                 <h3 id="h3_id_02">( )</h3>
             </div>
-            <div id="div_id_04" class="div_class_01">
+            <div id="div_id_04" class="div_class_01 div_class_03">
                 <h3 id="h3_id_03">%</h3>
             </div>
-            <div id="div_id_05" class="div_class_01">
+            <div id="div_id_05" class="div_class_01 div_class_03">
                 <h3 id="h3_id_04">/</h3>
             </div>
         </div>
         <div class="div_class_00">
-            <div id="div_id_06" class="div_class_01">
+            <div id="div_id_06" class="div_class_01 div_class_02">
                 <h3 id="h3_id_05">7</h3>
             </div>
-            <div id="div_id_07" class="div_class_01">
+            <div id="div_id_07" class="div_class_01 div_class_02">
                 <h3 id="h3_id_06">8</h3>
             </div>
-            <div id="div_id_08" class="div_class_01">
+            <div id="div_id_08" class="div_class_01 div_class_02">
                 <h3 id="h3_id_07">9</h3>
             </div>
-            <div id="div_id_09" class="div_class_01">
+            <div id="div_id_09" class="div_class_01 div_class_03">
                 <h3 id="h3_id_08">x</h3>
             </div>
         </div>
         <div class="div_class_00">
-            <div id="div_id_10" class="div_class_01">
+            <div id="div_id_10" class="div_class_01 div_class_02">
                 <h3 id="h3_id_09">4</h3>
             </div>
-            <div id="div_id_11" class="div_class_01">
+            <div id="div_id_11" class="div_class_01 div_class_02">
                 <h3 id="h3_id_10">5</h3>
             </div>
-            <div id="div_id_12" class="div_class_01">
+            <div id="div_id_12" class="div_class_01 div_class_02">
                 <h3 id="h3_id_11">6</h3>
             </div>
-            <div id="div_id_13" class="div_class_01">
+            <div id="div_id_13" class="div_class_01 div_class_03">
                 <h3 id="h3_id_12">-</h3>
             </div>
         </div>
         <div class="div_class_00">
-            <div id="div_id_14" class="div_class_01">
+            <div id="div_id_14" class="div_class_01 div_class_02">
                 <h3 id="h3_id_13">1</h3>
             </div>
-            <div id="div_id_15" class="div_class_01">
+            <div id="div_id_15" class="div_class_01 div_class_02">
                 <h3 id="h3_id_14">2</h3>
             </div>
-            <div id="div_id_16" class="div_class_01">
+            <div id="div_id_16" class="div_class_01 div_class_02">
                 <h3 id="h3_id_15">3</h3>
             </div>
-            <div id="div_id_17" class="div_class_01">
+            <div id="div_id_17" class="div_class_01 div_class_03">
                 <h3 id="h3_id_16">+</h3>
             </div>
         </div>
         <div class="div_class_00">
-            <div id="div_id_18" class="div_class_01">
+            <div id="div_id_18" class="div_class_01 div_class_02">
                 <h3 id="h3_id_17">0</h3>
             </div>
-            <div id="div_id_19" class="div_class_01">
+            <div id="div_id_19" class="div_class_01 div_class_03">
                 <h3 id="h3_id_18">,</h3>
             </div>
-            <div id="div_id_20" class="div_class_01">
+            <div id="div_id_20" class="div_class_01 div_class_03">
                 <h3 id="h3_id_19"><</h3>
             </div>
-            <div id="div_id_21" class="div_class_01">
+            <div id="div_id_21" class="div_class_01 div_class_03">
                 <h3 id="h3_id_20">=</h3>
             </div>
         </div>

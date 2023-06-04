@@ -4,6 +4,7 @@
     border: 3px solid #000;
     border-radius: 20px;
     padding: 15px;
+    background-color: black;
 }
 
 #div_id_01 {
@@ -12,7 +13,16 @@
     border-radius: 20px;
     padding-right: 10px;
     text-align: end;
+    background-color: aqua;
 }
+
+#div_id_02, #div_id_03, #div_id_04, #div_id_05 {
+    background-color: azure;
+}
+
+#div_id_09, #div_id_13, #div_id_17, #div_id_21 {
+    background-color: azure;
+} 
 
 .div_class_00 {
     display: flex;
@@ -25,6 +35,7 @@
     margin-top: 10px;
     margin-right: 10px;
     text-align: center;
+    background-color: aquamarine;
 }
 
 .div_class_01:hover {

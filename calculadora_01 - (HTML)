@@ -16,72 +16,72 @@
         </div>
         <div class="div_class_00">
             <div id="div_id_02" class="div_class_01 div_class_03">
-                <h3 id="h3_id_01">AC</h3>
+                <button id="button_id_01" class="button_class_00">AC</button>
             </div>
             <div id="div_id_03" class="div_class_01 div_class_03">
-                <h3 id="h3_id_02">( )</h3>
+                <button id="button_id_02" class="button_class_00">()</button>
             </div>
             <div id="div_id_04" class="div_class_01 div_class_03">
-                <h3 id="h3_id_03">%</h3>
+                <button id="button_id_03" class="button_class_00">%</button>
             </div>
             <div id="div_id_05" class="div_class_01 div_class_03">
-                <h3 id="h3_id_04">/</h3>
+                <button id="button_id_04" class="button_class_00">/</button>
             </div>
         </div>
         <div class="div_class_00">
             <div id="div_id_06" class="div_class_01 div_class_02">
-                <h3 id="h3_id_05">7</h3>
+                <button id="button_id_05" class="button_class_00">7</button>
             </div>
             <div id="div_id_07" class="div_class_01 div_class_02">
-                <h3 id="h3_id_06">8</h3>
+                <button id="button_id_06" class="button_class_00">8</button>
             </div>
             <div id="div_id_08" class="div_class_01 div_class_02">
-                <h3 id="h3_id_07">9</h3>
+                <button id="button_id_07" class="button_class_00">9</button>
             </div>
             <div id="div_id_09" class="div_class_01 div_class_03">
-                <h3 id="h3_id_08">x</h3>
+                <button id="button_id_08" class="button_class_00">x</button>
             </div>
         </div>
         <div class="div_class_00">
             <div id="div_id_10" class="div_class_01 div_class_02">
-                <h3 id="h3_id_09">4</h3>
+                <button id="button_id_09" class="button_class_00">4</button>
             </div>
             <div id="div_id_11" class="div_class_01 div_class_02">
-                <h3 id="h3_id_10">5</h3>
+                <button id="button_id_10" class="button_class_00">5</button>
             </div>
             <div id="div_id_12" class="div_class_01 div_class_02">
-                <h3 id="h3_id_11">6</h3>
+                <button id="button_id_11" class="button_class_00">6</button>
             </div>
             <div id="div_id_13" class="div_class_01 div_class_03">
-                <h3 id="h3_id_12">-</h3>
+                <button id="button_id_12" class="button_class_00">-</button>
             </div>
         </div>
         <div class="div_class_00">
             <div id="div_id_14" class="div_class_01 div_class_02">
-                <h3 id="h3_id_13">1</h3>
+                <button id="button_id_13" class="button_class_00">1</button>
             </div>
             <div id="div_id_15" class="div_class_01 div_class_02">
-                <h3 id="h3_id_14">2</h3>
+                <button id="button_id_14" class="button_class_00">2</button>
             </div>
             <div id="div_id_16" class="div_class_01 div_class_02">
-                <h3 id="h3_id_15">3</h3>
+                <button id="button_id_15" class="button_class_00">3</button>
             </div>
             <div id="div_id_17" class="div_class_01 div_class_03">
-                <h3 id="h3_id_16">+</h3>
+                <button id="button_id_16" class="button_class_00">+</button>
             </div>
         </div>
         <div class="div_class_00">
             <div id="div_id_18" class="div_class_01 div_class_02">
-                <h3 id="h3_id_17">0</h3>
+                <button id="button_id_17" class="button_class_00">0</button>
             </div>
             <div id="div_id_19" class="div_class_01 div_class_03">
-                <h3 id="h3_id_18">,</h3>
+                <button id="button_id_18" class="button_class_00">,</button>
             </div>
             <div id="div_id_20" class="div_class_01 div_class_03">
-                <h3 id="h3_id_19"><</h3>
+                <button id="button_id_19" class="button_class_00"><</button>
             </div>
             <div id="div_id_21" class="div_class_01 div_class_03">
-                <h3 id="h3_id_20">=</h3>
+                <button id="button_id_20" class="button_class_00">=</button>
             </div>
         </div>
     </div>

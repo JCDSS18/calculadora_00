@@ -1,0 +1,65 @@
+const h1_id_01 = document.getElementById('h1_id_01')
+const button_id_01 = document.getElementById('button_id_01')
+const button_id_02 = document.getElementById('button_id_02')
+const button_id_03 = document.getElementById('button_id_03')
+const button_id_04 = document.getElementById('button_id_04')
+const button_id_05 = document.getElementById('button_id_05')
+const button_id_06 = document.getElementById('button_id_06')
+const button_id_07 = document.getElementById('button_id_07')
+const button_id_08 = document.getElementById('button_id_08')
+const button_id_09 = document.getElementById('button_id_09')
+const button_id_10 = document.getElementById('button_id_10')
+const button_id_11 = document.getElementById('button_id_11')
+const button_id_12 = document.getElementById('button_id_12')
+const button_id_13 = document.getElementById('button_id_13')
+const button_id_14 = document.getElementById('button_id_14')
+const button_id_15 = document.getElementById('button_id_15')
+const button_id_16 = document.getElementById('button_id_16')
+const button_id_17 = document.getElementById('button_id_17')
+const button_id_18 = document.getElementById('button_id_18')
+const button_id_19 = document.getElementById('button_id_19')
+const button_id_20 = document.getElementById('button_id_20')
+
+button_id_17.addEventListener('click', () => {
+    h1_id_01.innerHTML = '0'
+})
+
+button_id_16.addEventListener('click', () => {
+    h1_id_01.innerHTML = '+'
+})
+
+button_id_13.addEventListener('click', () => {
+    h1_id_01.innerHTML = '1'
+})
+
+button_id_14.addEventListener('click', () => {
+    h1_id_01.innerHTML = '2'
+})
+
+button_id_15.addEventListener('click', () => {
+    h1_id_01.innerHTML = '3'
+})
+
+button_id_09.addEventListener('click', () => {
+    h1_id_01.innerHTML = '4'
+})
+
+button_id_10.addEventListener('click', () => {
+    h1_id_01.innerHTML = '5'
+})
+
+button_id_11.addEventListener('click', () => {
+    h1_id_01.innerHTML = '6'
+})
+
+button_id_05.addEventListener('click', () => {
+    h1_id_01.innerHTML = '7'
+})
+
+button_id_06.addEventListener('click', () => {
+    h1_id_01.innerHTML = '8'
+})
+
+button_id_07.addEventListener('click', () => {
+    h1_id_01.innerHTML = '9'
+})

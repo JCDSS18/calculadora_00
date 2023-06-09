@@ -9,7 +9,7 @@
     <title>Calculadora</title>
 </head>
 
-<body>
+<body id="body_id_01">
     <div id="div_id_00">
         <div id="div_id_01">
             <h1 id="h1_id_01">0</h1>

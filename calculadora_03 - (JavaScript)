@@ -20,16 +20,58 @@ const button_id_18 = document.getElementById('button_id_18')
 const button_id_19 = document.getElementById('button_id_19')
 const button_id_20 = document.getElementById('button_id_20')
 
+let Array_01 = []
+
 button_id_17.addEventListener('click', () => {
     h1_id_01.innerHTML = '0'
+    Array_01.forEach(() => {
+
+    })
+})
+
+button_id_01.addEventListener('click', () => {
+    h1_id_01.innerHTML = '0'
+})
+
+button_id_02.addEventListener('click', () => {
+    h1_id_01.innerHTML = '()'
+})
+
+button_id_03.addEventListener('click', () => {
+    h1_id_01.innerHTML = '%'
+})
+
+button_id_04.addEventListener('click', () => {
+    h1_id_01.innerHTML = '/'
+})
+
+button_id_08.addEventListener('click', () => {
+    h1_id_01.innerHTML = 'x'
+})
+
+button_id_12.addEventListener('click', () => {
+    h1_id_01.innerHTML = '-'
 })
 
 button_id_16.addEventListener('click', () => {
     h1_id_01.innerHTML = '+'
 })
 
+button_id_20.addEventListener('click', () => {
+    h1_id_01.innerHTML = '='
+})
+
+button_id_19.addEventListener('click', () => {
+    h1_id_01.innerHTML = '<'
+})
+
+button_id_18.addEventListener('click', () => {
+    h1_id_01.innerHTML = ','
+})
+
 button_id_13.addEventListener('click', () => {
     h1_id_01.innerHTML = '1'
+
 })
 
 button_id_14.addEventListener('click', () => {

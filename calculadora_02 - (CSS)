@@ -1,11 +1,10 @@
 #body_id_01 {
     color: black;
-    background-color: black;
 }
 
 #div_id_00 {
     width: 260px;
-    border: 3px solid black;
+    border: 1px solid black;
     border-radius: 20px;
     padding: 15px;
     background-color: aliceblue;
@@ -13,7 +12,7 @@
 
 #div_id_01 {
     width: auto;
-    border: 3px solid black;
+    border: 1px solid black;
     border-radius: 20px;
     padding-right: 10px;
     text-align: end;
@@ -43,7 +42,7 @@
 
 .div_class_01 {
     width: 60px;
-    border: 3px solid #000;
+    border: 1px solid #000;
     border-radius: 20px;
     margin-top: 10px;
     margin-right: 10px;

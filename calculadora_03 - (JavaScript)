@@ -2,20 +2,43 @@ const button_class_01 = [...document.querySelectorAll('.button_class_01')]
 console.log(button_class_01)
 const button_class_02 = [...document.querySelectorAll('.button_class_02')]
 console.log(button_class_02)
-button_id_01 = document.getElementById('button_id_01')
+const button_id_01 = document.getElementById('button_id_01')
+const h1_id_01 = document.getElementById('h1_id_01')
+const button_id_20 = document.getElementById('button_id_20')
+
+Ação_01 = false
 
 button_class_01.forEach((Elemento_01) => {
     Elemento_01.addEventListener('click', (Evento_01) => {
-        h1_id_01.innerHTML+=Evento_01.target.innerHTML
+        Ação_01 = false
+        if (h1_id_01.innerHTML == '0') {
+            h1_id_01.innerHTML = ''
+        }
+        h1_id_01.innerHTML += Evento_01.target.innerHTML
     })
 })
 
 button_class_02.forEach((Elemento_02) => {
     Elemento_02.addEventListener('click', (Evento_02) => {
-        h1_id_01.innerHTML+=Evento_02.target.innerHTML
+        if (!Ação_01) {
+            Ação_01 = true
+            if (h1_id_01.innerHTML == '0') {
+                h1_id_01.innerHTML = ''
+            } if (Evento_02.target.innerHTML == 'x') {
+                h1_id_01.innerHTML += '*'
+            } else {
+                h1_id_01.innerHTML += Evento_02.target.innerHTML
+            }
+        }
     })
 })
 
 button_id_01.addEventListener('click', (Evento_03) => {
+    Ação_01 = false
     h1_id_01.innerHTML = '0'
+})
+
+button_id_20.addEventListener('click', (Evento_04) => {
+    const button_id_20 = eval(h1_id_01.innerHTML)
+    h1_id_01.innerHTML = button_id_20
 })

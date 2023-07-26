@@ -78,10 +78,10 @@
                 <button id="button_id_18" class="button_class_00 button_class_02">,</button>
             </div>
             <div id="div_id_20" class="div_class_01 div_class_03">
-                <button id="button_id_19" class="button_class_00"><</button>
+                <button id="button_id_19" class="button_class_00 button_class_02"><</button>
             </div>
             <div id="div_id_21" class="div_class_01 div_class_03">
-                <button id="button_id_20" class="button_class_00 button_class_02">=</button>
+                <button id="button_id_20" class="button_class_00">=</button>
             </div>
         </div>
     </div>

@@ -19,6 +19,12 @@
     background-color: aqua;
 }
 
+#h1_id_01 {
+    height: 5px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+}
+
 #div_id_02, #div_id_03, #div_id_04, #div_id_05 {
     background-color: azure;
 }

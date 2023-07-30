@@ -5,6 +5,9 @@ console.log(button_class_02)
 const button_id_01 = document.getElementById('button_id_01')
 const h1_id_01 = document.getElementById('h1_id_01')
 const button_id_20 = document.getElementById('button_id_20')
+const div_id_22 = document.getElementById('div_id_22')
+const div_id_23 = document.getElementById('div_id_23')
+const img_id_01 = document.getElementById('img_id_01')
 
 Ação_01 = false
 
@@ -41,4 +44,13 @@ button_id_01.addEventListener('click', (Evento_03) => {
 button_id_20.addEventListener('click', (Evento_04) => {
     const button_id_20 = eval(h1_id_01.innerHTML)
     h1_id_01.innerHTML = button_id_20
+})
+
+div_id_23.addEventListener('click', (Evento_05) => {
+    div_id_22.classList.toggle('div_class_22')
+    if(div_id_22.classList.contains('div_class_22')) {
+        img_id_01.setAttribute('src', 'arrow_left.svg')
+    } else {
+        img_id_01.setAttribute('src', 'arrow_right.svg')
+    }
 })
